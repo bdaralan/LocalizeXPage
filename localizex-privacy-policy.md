@@ -1,12 +1,14 @@
-**Privacy Policy**
+# Privacy Policy
+
+## LocalizeX
 
 LocalizeX is built by developer for fellow developers.
 
-**Data Collection**
+## Data Collection
 
 None.
 
-**Contact**
+## Contact
 
 If you have any questions or suggestions about LocalizeX, do not hesitate to contact me. You can find me here, [Twitter](https://twitter.com/bdaralan).
 
